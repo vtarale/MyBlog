@@ -5,3 +5,4 @@ Making a website were i post about my learnigs, experiences, projects in embedde
 
 ## Theme
 the `hugo` theme is taken from [github](https://github.com/g1eny0ung/hugo-theme-dream/tree/98ce59283537607aedd5c4258a436426ae65d1e5)
+website based of https://github.com/streetdogg/dstreetdogg
