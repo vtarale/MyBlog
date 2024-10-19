@@ -1,7 +1,7 @@
 baseurl = "https://streetdogg.in/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Piyush Itankar"
+title = "Vihaan"
 theme = "dream"
 
 # [services]
@@ -19,11 +19,11 @@ darkTheme = "forest"
 # backgroundImage = "me/background.jpg"
 # backgroundImageDark = ""
 
-author = "Piyush Itankar"
+author = "Vihaan Tarale"
 description = "Radom notes on experiences in life"
 avatar = "img/avatar.png"
-headerTitle = "〉streetdogg"
-motto = "Notes from the Dog world!"
+headerTitle = "〉streetcat"
+motto = "Meow"
 
 footerBottomText = "These notes are my personal views. They do not represent any of the employers/ventures I work with."
 
